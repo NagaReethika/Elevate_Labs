@@ -1,22 +1,41 @@
-# Banking Landing Page
+# 🏦 SecureBank - Banking Landing Page
 
-This is a simple banking website landing page created using HTML and CSS.
+A modern and responsive banking website landing page built using HTML and CSS.  
+This project demonstrates clean UI design, responsive layout, and structured project organization.
 
-## Features
-- Responsive navigation bar
-- Hero section with background image
-- Policies page
-- Contact page
-- Login page
-- Responsive design
+---
 
-## Technologies Used
+## 🚀 Live Demo
+
+🔗 (Add GitHub Pages link here after deployment)
+
+---
+
+## 📌 Project Overview
+
+SecureBank is a static banking website that includes:
+
+- Responsive Navigation Bar
+- Hero Section with Background Image
+- Insurance / Policies Page
+- Contact Page
+- Separate Login Page
+- Clean and Modern UI Design
+- Fully Responsive Layout (Mobile + Desktop)
+
+---
+
+## 🛠 Technologies Used
+
 - HTML5
 - CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design (Media Queries)
+- Git & GitHub
 
-## How to Run
-1. Download the project
-2. Open index.html in your browser
+---
 
-## Author
-Reethika Raavi
+## 📂 Project Structure
+
+
