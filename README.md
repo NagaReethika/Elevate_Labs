@@ -1,9 +1,8 @@
-# 🏦 SecureBank - Banking Landing Page
+# 🏦 BioWave - Banking Landing Page
 
 A modern and responsive banking website landing page built using HTML and CSS.  
 This project demonstrates clean UI design, responsive layout, and structured project organization.
 
----
 
 ## 🚀 Live Demo
 
@@ -13,7 +12,7 @@ This project demonstrates clean UI design, responsive layout, and structured pro
 
 ## 📌 Project Overview
 
-SecureBank is a static banking website that includes:
+BioWave is a static banking website that includes:
 
 - Responsive Navigation Bar
 - Hero Section with Background Image
@@ -38,4 +37,19 @@ SecureBank is a static banking website that includes:
 
 ## 📂 Project Structure
 
-
+landing-page/
+│
+├── index.html
+├── policies.html
+├── contact.html
+├── login.html
+│
+├── styles/
+│ ├── index.css
+│ ├── policies.css
+│ ├── contact.css
+│
+├── images/
+│ └── bank-hero.png
+│
+└── README.md
