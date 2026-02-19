@@ -53,3 +53,12 @@ landing-page/
 │ └── bank-hero.png
 │
 └── README.md
+
+
+
+---
+
+## ✨ Author
+
+Developed as part of a frontend development practice project.
+
